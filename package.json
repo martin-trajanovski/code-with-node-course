@@ -14,7 +14,7 @@
     "mongoose": "^5.8.3",
     "morgan": "~1.9.1",
     "passport": "^0.4.1",
-    "pug": "2.0.0-beta11"
+    "pug": "3.0.1"
   },
   "devDependencies": {
     "locus": "^2.0.4"
